@@ -1,12 +1,12 @@
-<a target="_blank" href="https://www.patrikp.dev/">
+<a target="_blank" href="">
 <img  src="https://user-images.githubusercontent.com/67468836/227938093-008cec62-71af-4827-b84e-7ba70dac917b.png"  alt="Portfolio logo" align="right"  height="60"  />
 </a>
 
 # Portfolio
 
-<p align="center">This <a target="_blank" href="https://www.patrikp.dev/">Portfolio</a> helps increase my visibility to potential employers and enhance my chances of getting hired by showcasing my skills and experience in a visually appealing and organized manner.</p>
+<p align="center">This <a target="_blank" href="">Portfolio</a> helps increase my visibility to potential employers and enhance my chances of getting hired by showcasing my skills and experience in a visually appealing and organized manner.</p>
 
-<p align="center">&#128073 <a target="_blank" href="https://www.patrikp.dev/">Live Site </a>&#128072</p>
+<p align="center">&#128073 <a target="_blank" href="">Live Site </a>&#128072</p>
 
 ---
 
