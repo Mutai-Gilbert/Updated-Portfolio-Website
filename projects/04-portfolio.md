@@ -1,49 +1,29 @@
-<a target="_blank" href="">
-<img  src="https://user-images.githubusercontent.com/67468836/227938093-008cec62-71af-4827-b84e-7ba70dac917b.png"  alt="Portfolio logo" align="right"  height="60"  />
-</a>
-
-# Portfolio
-
-<p align="center">This <a target="_blank" href="">Portfolio</a> helps increase my visibility to potential employers and enhance my chances of getting hired by showcasing my skills and experience in a visually appealing and organized manner.</p>
-
-<p align="center">&#128073 <a target="_blank" href="">Live Site </a>&#128072</p>
-
 ---
-
-## Table of contents
-
-- [Portfolio](#portfolio)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Technologies used](#technologies-used)
-  - [Goals](#goals)
-  - [Design](#design)
-  - [Development](#development)
-    - [Tech stack](#tech-stack)
-    - [Process](#process)
-    - [Challenges](#challenges)
-      - [**Typing effect:**](#typing-effect)
-      - [**Page transition animations:**](#page-transition-animations)
-  - [Conclusion](#conclusion)
-
+title: "Portfolio"
+problem: "Increase my visibility to potential employers and enhance my chances of getting hired by 
+showcasing my skills and experience in a visually appealing and organized manner."
+solution: "Portfolio website with a modern design and smooth/engaging user experience, 
+that allows anyone to easily learn more about me and my capabilities. Each section is designed to 
+highlight my strengths and demonstrate my expertise in front-end development."
+thumbnail: images/portfolio-thumbnail.png
+siteUrl: "https://www.patrikp.dev/"
+codeUrl: "https://github.com/patrick-potocny/portfolio"
+technologies:
+  - NEXT.JS
+  - REACT
+  - TYPESCRIPT
+  - SCSS
+toc: 
+  - overview
+  - goals
+  - design
+  - development
+  - conclusion
 ---
 
 ## Overview
 
 The portfolio website is a visually appealing and modern platform that showcases the skills and experience of the owner, with a focus on front-end development. The website offers a smooth and engaging user experience, allowing potential employers or clients to easily learn more about the owner and their capabilities. Each section of the website is designed to highlight the owner's strengths and expertise, with a visually appealing layout that helps to make a strong impression on visitors. Through this portfolio website, the owner is able to increase their visibility to potential employers and enhance their chances of getting hired by demonstrating their skills and experience in a clear and organized manner.
-
-![Screenshot from 2023-03-27 15-09-15]()
-
-### Technologies used
-
-- **HTML/CSS**
-- **Typecript**
-- **SCSS**
-- **React**
-- **Next.js**
-- **Git**
-
----
 
 ## Goals
 
@@ -95,4 +75,3 @@ Throughout the development process, I encountered multiple challenges, such as c
 Working with my primary tech stack, which includes React, Next.js and SCSS, I obtained a better understanding of how to utilize each technology's strengths to design a highly efficient, user-friendly, and visually appealing website. I gained proficiency in creating reusable components, managing state with React, and styling the app with SCSS.
 
 In conclusion, the goals set for this portfolio website have been achieved. The visually appealing and modern platform showcases the owner's skills and experience in front-end development, creating a smooth and engaging user experience that encourages visitors to spend more time on the website, learn more about the owner's capabilities, and potentially take action.
-# my-portfolio
