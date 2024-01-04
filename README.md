@@ -1,5 +1,5 @@
 <a target="_blank" href="">
-<img  src="https://user-images.githubusercontent.com/67468836/227938093-008cec62-71af-4827-b84e-7ba70dac917b.png"  alt="Portfolio logo" align="right"  height="60"  />
+<img  src=""  alt="Portfolio logo" align="right"  height="60"  />
 </a>
 
 # Portfolio
