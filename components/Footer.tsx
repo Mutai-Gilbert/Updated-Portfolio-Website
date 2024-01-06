@@ -53,7 +53,7 @@ export default function Footer() {
           <button
             className={styles.link}
           >
-            <span>patrik@patrikp.dev</span>
+            <span>mutaigilbert85@gmail.com</span>
             <AnimatePresence>
               {copied && (
                 <motion.div
