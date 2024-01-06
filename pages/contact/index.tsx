@@ -44,7 +44,7 @@ export default function Contact() {
           <Image className={styles.icon} src={email} alt="Email" />
           <h2 className={styles.title}>Email</h2>
           <p className={styles.contact}>patrik@patrikp.dev</p>
-          <CopyToClipboard text="patrik@patrikp.dev">
+          <CopyToClipboard text="mutaigilbert85@gmail.com">
             <button className={styles.btn}>Copy Email</button>
           </CopyToClipboard>
         </motion.div>
@@ -58,7 +58,7 @@ export default function Contact() {
           <div className={styles.rightCorners} />
           <Image className={styles.icon} src={linkedIn} alt="LinkedIn" />
           <h2 className={styles.title}>LinkedIn</h2>
-          <a href="https://www.linkedin.com/in/patrikpotocny/" target="_blank" className={styles.btn}>My Profile</a>
+          <a href="https://www.linkedin.com/in/mutai-kipkoech/" target="_blank" className={styles.btn}>My Profile</a>
         </motion.div>
         <motion.div
           initial={{ x: 20, opacity: 0 }}
@@ -71,7 +71,7 @@ export default function Contact() {
           <Image className={styles.icon} src={phone} alt="Phone" />
           <h2 className={styles.title}>Phone Number</h2>
           <p className={styles.contact}>+421 940 116 860</p>
-          <CopyToClipboard text="+421 940 116 860">
+          <CopyToClipboard text="+254703252051">
             <button className={styles.btn}>Copy Number</button>
           </CopyToClipboard>
         </motion.div>
