@@ -31,21 +31,11 @@ export default function About() {
       </Head>
       <div className={styles.container}>
         <AboutSection imageUrl={boyComputer}>
-          <h1>Patrik Potocny</h1>
-          <p>
-            Front-end developer with 1+ year of experience in website and web
-            application development focusing on React applications. I specialize
-            in turning an idea into a fully functional website or web
-            application that provides an exceptional user experience and is
-            visually appealing.
-          </p>
-          <p>
-            I love learning and would like to continue doing so alongside
-            talented individuals. I am committed to delivering top-quality code
-            and exceptional user experiences.
-          </p>
+          <h1>Gilbert Mutai</h1>
+          <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Driving Innovation with AI </p>
+          <p>I love building innovative web solutions and contributing to meaningful projects!</p>
 
-          <p>Give me a problem and I'll give you a solution!</p>
+          <p>Hey!, Hand me that problem and let me find a solution for you!</p>
         </AboutSection>
 
         <AboutLinks />
