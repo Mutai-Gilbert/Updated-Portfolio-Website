@@ -63,7 +63,7 @@ export default function Home() {
                     </span>{" "}
                     {partThree && (
                       <Typewriter
-                        text="Front-End Developer ?"
+                        text="Machine Learning Engineer / Full Stack Developer ?"
                         onEnd={() => setPartFour(true)}
                       />
                     )}
