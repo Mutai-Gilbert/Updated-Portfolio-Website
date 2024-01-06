@@ -83,13 +83,8 @@ export default function Home() {
                   transition={{ duration: 1 }}
                   className={styles.introduction}
                 >
-                  <span className={styles.firstWord}>Hi</span>, I'm Patrik.
-                  Front-End Developer with a passion for creating visually
-                  pleasing websites and web applications that deliver
-                  exceptional user experiences. I am eager to continue expanding
-                  my skillset and work with talented individuals to bring ideas
-                  to life.
-                </motion.p>
+                  <span className={styles.firstWord}>Hi</span>Hi all, I'm Mutai 👋
+A passionate Full Stack Software Developer 🚀 with a love for JavaScript, Ruby, Ruby on Rails, Redux, SQL, PostgreSQL, C, React. Open Source Contributor. Open to new opportunities.</motion.p>
                 <motion.p
                   {...commonProps}
                   transition={{ duration: 1, delay: 0.3 }}
