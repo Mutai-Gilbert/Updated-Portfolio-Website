@@ -43,17 +43,15 @@ export default function About() {
         <AboutSection imageUrl={computer} applyFilter>
           <h1>Experience</h1>
           <p>
-            During the past year, I have focused on translating ideas into
+            During the past two years, I have focused on translating ideas into
             fully-functional websites and web applications, with my latest
             project being:
           </p>
           <p>
             <strong>
-              <Link href="/projects/01-jobly">Jobly</Link>
+              <Link href="/projects/01-jobly">Doctor Appointment</Link>
             </strong>{" "}
-            - Web application that can help manage and organize all aspects of
-            job search, including job postings, interviews, and notes, making
-            life easier for job seekers.
+           - Doctors Appointments frontend is react forntend application for doctor book appoinemnts. This applications is responsive and users can load, create, and delete doctors and reservations. Users need to sign up or sign in to access application. They can sign up or sign in using the sign up and login forms.
           </p>
           <p>
             Check out my other <Link href="/projects">PROJECTS</Link>
@@ -73,9 +71,9 @@ export default function About() {
         <AboutSection>
           <h1>Education</h1>
           <p>
-            <strong>GOOGLE UX DESIGN</strong> - course taught me the
-            fundamentals of UX design, including research, prototyping, and
-            testing, to create user-centered digital experiences -{" "}
+            <strong>Dedan Kimathi University - Bachelor of Science in Actuarial Science</strong> -
+            The program is designed to prepare students for a career as an actuary, which involves using mathematical and statistical models to assess financial risks and develop strategies to minimize them.
+             -{" "}
             <a
               href="/files/google-certificate.pdf"
               target="_blank"
@@ -84,6 +82,60 @@ export default function About() {
               CERTIFICATE
             </a>
           </p>
+
+            <p>
+            <strong>Microverse JavaScript Module</strong> -
+           Students earn this credential after demonstrating understanding and mastery of JavaScript. During the course of this module, they build several projects using JavaScript while pair-programming remotely with an international team of software developers.-{" "}
+            <a
+              href="/files/google-certificate.pdf"
+              target="_blank"
+              className={styles.link}
+            >
+              CERTIFICATE
+            </a>
+          </p>
+           <p>
+            <strong>Microverse React & Redux Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of React and Redux. Over the course of this module, students build and develop multiple projects using React and Redux, working both independently and while remotely pair-programming. -{" "}
+            <a
+              href="/files/google-certificate.pdf"
+              target="_blank"
+              className={styles.link}
+            >
+              CERTIFICATE
+            </a>
+          </p><p>
+            <strong>Microverse Ruby/Databases Module</strong> - 
+           Students earn this credential after demonstrating thorough understanding and mastery of Ruby/Databases. Over the course of this module, students build and develop multiple projects using Ruby/Databases, working both independently and while remotely pair-programming.            
+ -{" "}
+            <a
+              href="/files/google-certificate.pdf"
+              target="_blank"
+              className={styles.link}
+            >
+              CERTIFICATE
+            </a>
+          </p>
+ <p>
+            <strong>Microverse Ruby on Rails Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of Ruby on Rails. Over the course of this module, students build and develop multiple projects using Ruby on Rails, working both independently and while remotely pair-programming -{" "}
+            <a
+              href="/files/google-certificate.pdf"
+             target="_blank"
+              className={styles.link}
+            >
+              CERTIFICATE
+            </a>
+          </p>
+   <p>
+            <strong>Microverse Final Capstone Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails. Over the course of this module, students build and develop multiple projects using React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails, working both independently and while remotely pair-programming. -{" "}
+            <a
+              href="/files/google-certificate.pdf"
+             target="_blank"
+              className={styles.link}
+            >
+              CERTIFICATE
+            </a>
+          </p>
+            
         </AboutSection>
 
         <AboutSection imageUrl={boyReading} applyFilter>
