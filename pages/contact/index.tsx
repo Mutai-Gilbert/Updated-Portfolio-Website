@@ -43,7 +43,7 @@ export default function Contact() {
           <div className={styles.rightCorners} />
           <Image className={styles.icon} src={email} alt="Email" />
           <h2 className={styles.title}>Email</h2>
-          <p className={styles.contact}>patrik@patrikp.dev</p>
+          <p className={styles.contact}>mutaigilbert85@gmail.com</p>
           <CopyToClipboard text="mutaigilbert85@gmail.com">
             <button className={styles.btn}>Copy Email</button>
           </CopyToClipboard>
@@ -70,7 +70,7 @@ export default function Contact() {
           <div className={styles.rightCorners} />
           <Image className={styles.icon} src={phone} alt="Phone" />
           <h2 className={styles.title}>Phone Number</h2>
-          <p className={styles.contact}>+421 940 116 860</p>
+          <p className={styles.contact}>+254 703 252 051</p>
           <CopyToClipboard text="+254703252051">
             <button className={styles.btn}>Copy Number</button>
           </CopyToClipboard>
