@@ -49,7 +49,7 @@ export default function Footer() {
           <Image src={gitHubIcon} alt="GitHub icon" className={styles.icon} />
           <span>GitHub</span>
         </a>
-        <CopyToClipboard text="mutai@pkoech.dev" onCopy={showCopied}>
+        <CopyToClipboard text="mutaigilbert85@gmail.com" onCopy={showCopied}>
           <button
             className={styles.link}
           >
