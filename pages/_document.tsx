@@ -6,19 +6,19 @@ export default function Document() {
       <Head>
         <meta
           name="description"
-          content="Hi, I'm Patrik,
-          Front-End Developer with a passion for creating
+          content="Hi, I'm Gilbert,
+          Full Stack Developer/ Machine Learning Engineer with a passion for creating
           visually pleasing websites and web applications, that deliver
           exceptional user experiences."
         />
 
         <meta name="theme-color" content="#05321e" />
 
-        <meta property="og:title" content="Skilled Front-End Developer" />
+        <meta property="og:title" content="Skilled Full Stack Developer/ Machine Learning Engineer" />
         <meta
           property="og:description"
-          content="Hi, I'm Patrik,
-          Front-End Developer with a passion for creating
+          content="Hi, I'm Gilbert,
+          Full Stack Developer/ Machine Learning Engineer with a passion for creating
           visually pleasing websites and web applications, that deliver
           exceptional user experiences."
         />
