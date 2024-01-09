@@ -53,8 +53,6 @@ The portfolio website is a visually appealing and modern platform that showcases
 
 ## Design
 
-The design of the website draws inspiration from the personal computer "Pip-Boy 3000 Mark IV" featured in the popular video game, Fallout 4. 
-
 The website has been thoughtfully organized to showcase the owner's skills and experience. The portfolio has been divided into four key pages: Home, Projects, About, and Contact, which have been strategically chosen to ensure potential recruiters or employers have access to the most important information. By presenting their past work and achievements on the Projects page, providing a brief introduction of themselves on the About page, and including contact information on the Contact page, the owner aims to create an impressive and compelling digital presence that can effectively communicate their strengths and expertise to potential employers.
 
 ## Development
@@ -95,4 +93,11 @@ Throughout the development process, I encountered multiple challenges, such as c
 Working with my primary tech stack, which includes React, Next.js and SCSS, I obtained a better understanding of how to utilize each technology's strengths to design a highly efficient, user-friendly, and visually appealing website. I gained proficiency in creating reusable components, managing state with React, and styling the app with SCSS.
 
 In conclusion, the goals set for this portfolio website have been achieved. The visually appealing and modern platform showcases the owner's skills and experience in front-end development, creating a smooth and engaging user experience that encourages visitors to spend more time on the website, learn more about the owner's capabilities, and potentially take action.
-# my-portfolio
+## Contributing
+Pull requests are welcome. For major changes or new features, please open an issue first to discuss proposed changes.
+Thanks to the owner of this template [](https://github.com/patrick-potocny)
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+##
