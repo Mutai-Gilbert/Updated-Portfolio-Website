@@ -22,8 +22,11 @@ export default function Header() {
             <li className={currentPage === "projects" ? styles.selected : ""}>
               <Link href="/projects">PROJECTS</Link>
             </li>
-            <li className={currentPage === "about" ? styles.selected : ""}>
+             <li className={currentPage === "about" ? styles.selected : ""}>
               <Link href="/about">ABOUT</Link>
+            </li>
+             <li className={currentPage === "blog" ? styles.selected : ""}>
+              <Link href="/blog">BLOG</Link>
             </li>
             <li className={currentPage === "contact" ? styles.selected : ""}>
               <Link href="/contact">CONTACT</Link>
