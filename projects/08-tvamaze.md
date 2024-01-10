@@ -2,7 +2,7 @@
 title: "Tv-amaze"
 problem: "The problem addressed by the web application is the need for a centralized and user-friendly platform to access detailed movie data from an external API. Users often face challenges in efficiently navigating through large datasets, and the application aims to streamline this process."
 solution: "The solution is a web application that integrates with the selected movie API to fetch and display relevant movie information. By presenting this data in a structured and user-friendly interface, the application enhances the user experience and facilitates easy access to movie details."
-thumbnail: images/tvamze-thumbnail.png
+thumbnail: images/tvamaze-thumbnail.png
 siteUrl: "https://mutai-gilbert.github.io/TVamaze-API-based-webapp/dist/"
 codeUrl: "https://github.com/Mutai-Gilbert/TVamaze-API-based-webapp"
 technologies:
