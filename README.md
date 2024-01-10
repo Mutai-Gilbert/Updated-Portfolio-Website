@@ -1,5 +1,4 @@
-<a target="_blank" href="">
-<img  src=""  alt="Portfolio logo" align="right"  height="60"  />
+<a target="_blank" href=""> <img  src=""  alt="Portfolio logo" align="right"  height="60"  />
 </a>
 
 # Portfolio
@@ -95,7 +94,7 @@ Working with my primary tech stack, which includes React, Next.js and SCSS, I ob
 In conclusion, the goals set for this portfolio website have been achieved. The visually appealing and modern platform showcases the owner's skills and experience in front-end development, creating a smooth and engaging user experience that encourages visitors to spend more time on the website, learn more about the owner's capabilities, and potentially take action.
 ## Contributing
 Pull requests are welcome. For major changes or new features, please open an issue first to discuss proposed changes.
-Thanks to the owner of this template [](https://github.com/patrick-potocny)
+Thanks to the owner of this template [patrick-potocny](https://github.com/patrick-potocny)
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
