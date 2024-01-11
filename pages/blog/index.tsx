@@ -3,6 +3,7 @@ import Head from "next/head";
 import React, { useContext, useEffect } from 'react'
 import styles from '@/styles/pages/404.module.scss'
 import AboutSection from "@/components/AboutSection";
+import boyComputer from "@/public/images/boyComputer.png";
 import { useRouter } from 'next/router';
 import { useInView } from "react-intersection-observer";
 import { SeenWelcomeScreenCtx } from '@/context/SeenWelcomePageCtx';
@@ -25,15 +26,15 @@ export default function Blog() {
         <div className={styles.container}>
             <AboutSection imageUrl={boyComputer}>
                   <h1>Gilbert Mutai</h1>
-                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI </p>
+                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI                   </p>
             </AboutSection>
              <AboutSection imageUrl={boyComputer}>
                   <h1>Gilbert Mutai</h1>
-                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI </p>
+                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI                   </p>
             </AboutSection>
             <AboutSection imageUrl={boyComputer}>
                   <h1>Gilbert Mutai</h1>
-                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI </p>
+                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI                   </p>
             </AboutSection>
         <AboutLinks /> 
         </div>
