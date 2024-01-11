@@ -2,6 +2,7 @@ import Layout from "@/components/Layout";
 import Head from "next/head";
 import React, { useContext, useEffect } from 'react'
 import styles from '@/styles/pages/404.module.scss'
+import AboutSection from "@/components/AboutSection";
 import { useRouter } from 'next/router';
 import { useInView } from "react-intersection-observer";
 import { SeenWelcomeScreenCtx } from '@/context/SeenWelcomePageCtx';
