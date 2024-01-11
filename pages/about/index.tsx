@@ -32,8 +32,10 @@ export default function About() {
       <div className={styles.container}>
         <AboutSection imageUrl={boyComputer}>
           <h1>Gilbert Mutai</h1>
-          <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Driving Innovation with AI </p>
-          <p>I love building innovative web solutions and contributing to meaningful projects!</p>
+          <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Driving                Innovation with AI </p>
+          <p>
+            I love building innovative web solutions and contributing to meaningful projects!
+          </p>
 
           <p>Hey!, Hand me that problem and let me find a solution for you!</p>
         </AboutSection>
@@ -80,8 +82,8 @@ export default function About() {
               className={styles.link}
             >
               CERTIFICATE
-            </a>
-          </p>
+                </a>
+                </p>
 
             <p>
             <strong>Microverse JavaScript Module</strong> -
@@ -93,7 +95,7 @@ export default function About() {
             >
               CERTIFICATE
             </a>
-          </p>
+            </p>
            <p>
             <strong>Microverse React & Redux Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of React and Redux. Over the course of this module, students build and develop multiple projects using React and Redux, working both independently and while remotely pair-programming. -{" "}
             <a
@@ -103,19 +105,20 @@ export default function About() {
             >
               CERTIFICATE
             </a>
-          </p><p>
+            </p>
+            <p>
             <strong>Microverse Ruby/Databases Module</strong> - 
            Students earn this credential after demonstrating thorough understanding and mastery of Ruby/Databases. Over the course of this module, students build and develop multiple projects using Ruby/Databases, working both independently and while remotely pair-programming.            
  -{" "}
             <a
-              href="/files/.pdf"
+              href="/files/ruby.pdf"
               target="_blank"
               className={styles.link}
             >
               CERTIFICATE
-            </a>
-          </p>
- <p>
+             </a>
+             </p>
+             <p>
             <strong>Microverse Ruby on Rails Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of Ruby on Rails. Over the course of this module, students build and develop multiple projects using Ruby on Rails, working both independently and while remotely pair-programming -{" "}
             <a
               href="/files/rubyonrails.pdf"
@@ -124,18 +127,28 @@ export default function About() {
             >
               CERTIFICATE
             </a>
-          </p>
-   <p>
+            </p>
+            <p>
             <strong>Microverse Final Capstone Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails. Over the course of this module, students build and develop multiple projects using React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails, working both independently and while remotely pair-programming. -{" "}
             <a
-              href="/files/.pdf"
+              href="/files/fullstackcapstone.pdf"
              target="_blank"
               className={styles.link}
             >
               CERTIFICATE
             </a>
           </p>
-            
+           <p>
+            <strong>Microverse Software Development Program</strong> - 
+ Students earn this credential after working through 1500+ hours of remote pair programming, learning to code with teams from around the world.-{" "}
+            <a
+              href="/files/fullstackwebdevelopement.pdf"
+              target="_blank"
+              className={styles.link}
+            >
+              CERTIFICATE
+            </a>
+            </p> 
         </AboutSection>
 
         <AboutSection imageUrl={boyReading} applyFilter>
