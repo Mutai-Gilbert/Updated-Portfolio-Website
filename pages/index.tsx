@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>&lt;/patrikp&gt;</title>
+        <title>&lt;/gilbert&gt;</title>
       </Head>
       <AnimatePresence initial={false} mode="wait">
         {!seenWelcomePage ? (
@@ -84,7 +84,7 @@ export default function Home() {
                   className={styles.introduction}
                 >
                   <span className={styles.firstWord}>Hi</span>I'm Mutai 👋
-A passionate Full Stack Software Developer 🚀 with a love for JavaScript, Ruby, Ruby on Rails, Redux, SQL, PostgreSQL, C, React. Open Source Contributor. Open to new opportunities.</motion.p>
+                    A passionate Full Stack Software Developer 🚀 with a love for JavaScri                  pt, Ruby, Ruby on Rails, Redux, SQL, PostgreSQL, C, React. Open Source C                ontributor. Open to new opportunities.</motion.p>
                 <motion.p
                   {...commonProps}
                   transition={{ duration: 1, delay: 0.3 }}
