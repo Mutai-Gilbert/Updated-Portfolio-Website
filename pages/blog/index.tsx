@@ -22,36 +22,19 @@ export default function Blog() {
              <title>Blog</title>
         </Head>
         <div className={styles.container}>
-          <p>
-            <strong>Microverse Final Capstone Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails. Over the course of this module, students build and develop multiple projects using React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails, working both independently and while remotely pair-programming. -{" "}
-            <a
-              href="/files/.pdf"
-             target="_blank"
-              className={styles.link}
-            >
-              CERTIFICATE
-            </a>
-          </p>
-           <p>
-            <strong>Microverse Final Capstone Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails. Over the course of this module, students build and develop multiple projects using React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails, working both independently and while remotely pair-programming. -{" "}
-            <a
-              href="/files/.pdf"
-             target="_blank"
-              className={styles.link}
-            >
-              CERTIFICATE
-            </a>
-          </p>
-           <p>
-            <strong>Microverse Final Capstone Module</strong> - Students earn this credential after demonstrating thorough understanding and mastery of React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails. Over the course of this module, students build and develop multiple projects using React, Redux, JavaScript, Front End Web Development and connecting Back End Web Development using Ruby on Rails, working both independently and while remotely pair-programming. -{" "}
-            <a
-              href="/files/.pdf"
-             target="_blank"
-              className={styles.link}
-            >
-              CERTIFICATE
-            </a>
-          </p> 
+            <AboutSection imageUrl={boyComputer}>
+                  <h1>Gilbert Mutai</h1>
+                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI </p>
+            </AboutSection>
+             <AboutSection imageUrl={boyComputer}>
+                  <h1>Gilbert Mutai</h1>
+                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI </p>
+            </AboutSection>
+            <AboutSection imageUrl={boyComputer}>
+                  <h1>Gilbert Mutai</h1>
+                  <p>Software Engineer | Entrepreneurial Mindset | Machine Learning Enthusiast | Drivin Innovation with AI </p>
+            </AboutSection>
+        <AboutLinks /> 
         </div>
     </Layout>
 )
